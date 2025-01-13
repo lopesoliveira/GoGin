@@ -25,3 +25,6 @@ go.work.sum
 package-lock.json
 .idea/
 source/core/tmp/
+
+#Executable files
+*.exe
